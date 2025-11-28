@@ -188,7 +188,7 @@ p.note { display: none; }
 <a href="20251128_009.JPG" target="_blank"><img src="20251128_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251128_010.JPG" target="_blank"><img src="20251128_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">治療が終わっていつもの王立大学、入り口の写真が多様の誕生祝いになってます</span></h2>
+<h2><span class="yellow">治療が終わっていつもの王立大学、入り口の写真が王様の誕生祝いになってます</span></h2>
 <a href="20251128_011.JPG" target="_blank"><img src="20251128_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">競泳選手が一人で特訓中</span></h2>
